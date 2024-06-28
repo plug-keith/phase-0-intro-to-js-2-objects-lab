@@ -1,8 +1,8 @@
 // Write your solution in this file!
 let employee = {
-    name: 'Eugene',
-    role: 'Security Analyst',
-    age: 20
+    name: 'Keith',
+    role: 'Engineer',
+    age: 32
 };
 function updateEmployeeWithKeyAndValue(employee, key, value) {
     return {
